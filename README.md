@@ -2,7 +2,7 @@
 
 ### Room을 이용한 데이터베이스 예제 해보기 
 
-<img src="https://github.com/hyejin830/RoomExample/blob/master/images/1.png" width="60%"></img>| <img src="https://github.com/hyejin830/RoomExample/blob/master/images/2.png" width="60%"></img>| <img src="https://github.com/hyejin830/RoomExample/blob/master/images/3.png" width="60%"></img>
+<img src="https://github.com/hyejin830/RoomExample/blob/master/images/1.png" width="30%"></img>| <img src="https://github.com/hyejin830/RoomExample/blob/master/images/2.png" width="30%"></img>| <img src="https://github.com/hyejin830/RoomExample/blob/master/images/3.png" width="30%"></img>
 
 #### 1. Room 이란 
 
