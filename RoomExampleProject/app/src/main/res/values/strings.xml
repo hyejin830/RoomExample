@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomExampleProject</string>
+    <string name="text_user_id">ID</string>
+    <string name="text_user_first_name">first name</string>
+    <string name="text_user_last_name">last name</string>
+    <string name="text_insert_all">등록</string>
+    <string name="text_select_id">모두 조회</string>
+    <string name="text_result_select">조회 결과 텍스트입니다...</string>
+    <string name="text_add_complete">추가 완료</string>
+</resources>
